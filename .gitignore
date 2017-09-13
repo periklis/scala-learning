@@ -1,5 +1,4 @@
-.ensime
-.ensime_cache
-project
-!/project/build.properties
-target
+/.ensime
+/.ensime_cache
+/project
+/target
